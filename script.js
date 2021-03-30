@@ -12,6 +12,7 @@ function busca(){
         success:function(response){
             
             console.log(response);
+	    console.log("testando a parada");
 
         },
         error: function(){
